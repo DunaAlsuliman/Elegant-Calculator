@@ -1,4 +1,4 @@
-package com.example.new_sample;
+package com.calcios.new_sample;
 
 import org.junit.Test;
 

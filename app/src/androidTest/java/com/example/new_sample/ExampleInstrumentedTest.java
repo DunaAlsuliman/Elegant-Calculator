@@ -1,4 +1,4 @@
-package com.example.new_sample;
+package com.calcios.new_sample;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.new_sample", appContext.getPackageName());
+        assertEquals("com.calcios.new_sample", appContext.getPackageName());
     }
 }

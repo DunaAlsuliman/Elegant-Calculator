@@ -11,7 +11,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.new_sample"
+        applicationId "com.calcios.new_sample"
         minSdkVersion 19
         targetSdkVersion 33
         versionCode 1

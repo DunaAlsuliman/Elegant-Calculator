@@ -22,7 +22,7 @@ android {
 
     signingConfigs {
     release {
-        storeFile file('C:/Users/user/my-release-key.jks') // Path to your keystore file
+        storeFile file('Elegant-Calculator/my-release-key.jks') // Path to your keystore file
         storePassword '1d2u3n4a'
         keyAlias 'my-key-alias'
         keyPassword '1d2u3n4a'

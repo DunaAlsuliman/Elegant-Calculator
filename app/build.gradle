@@ -14,7 +14,7 @@ android {
         applicationId "com.calcios.new_sample"
         minSdkVersion 19
         targetSdkVersion 33
-        versionCode 3
+        versionCode 4
         versionName "release 1.7"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
